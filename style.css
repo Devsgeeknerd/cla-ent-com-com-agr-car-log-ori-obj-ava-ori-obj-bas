@@ -1,0 +1,28 @@
+/* 
+    OBS: os atributos abaixo comentado foram substituido por outro durante a aula.
+*/
+Body{
+    margin: 0;
+}
+.div{
+    /* width: 300px; */
+    width: 100%;
+    /* height: 300px; */
+    height: 100px;
+    background-color: #ff0000;
+}
+.menu{
+    width: 200px;
+    height: 300px;
+    background-color: #0000ff;
+    float: left;
+}
+.conteudo{
+    width: 500px;
+    height: 300px;
+    background-color: #00ff00;
+    float: right;
+}
+.teste{
+    background-color: #ff0000;
+}
