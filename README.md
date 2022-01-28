@@ -9,6 +9,6 @@
   - É um bloco de código continuo pouco menos flexivel.
   - Ele é parecido com a *div* sem as medidas de altura, larguras e etc;.
   - Ele se adapta ao proprio conteudo que esta dentro da *tag*.
-  - È usado para estilizar conteudo dentro de textos.
+  - É usado para estilizar conteudo dentro de textos.
 
 ## Informações
